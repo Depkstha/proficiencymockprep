@@ -23,7 +23,7 @@ async function Home() {
 
   return (
     <>
-      <section className="card-cta">
+      {/* <section className="card-cta">
         <div className="flex flex-col gap-6 max-w-lg">
           <h2>Get Interview-Ready with AI-Powered Practice & Feedback</h2>
           <p className="text-lg">
@@ -42,7 +42,7 @@ async function Home() {
           height={400}
           className="max-sm:hidden"
         />
-      </section>
+      </section> */}
 
       <section className="flex flex-col gap-6 mt-8">
         <h2>Your Interviews</h2>
